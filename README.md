@@ -59,3 +59,4 @@ Sonuç olarak, bu proje yalnızca bir ödev kapsamında değil, aynı zamanda ge
 ## KAGGLE NOTEBOOK LİNKİ
 
 [Proje Notebook (Aslıhan Özcan) & (Ahmet Gökay Değer)] [ https://www.kaggle.com/code/aslhanzcan/garbageclassificationproject ]
+[ https://www.kaggle.com/kernels/scriptcontent/264025765/download ]
