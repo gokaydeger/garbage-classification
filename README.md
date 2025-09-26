@@ -58,5 +58,5 @@ Bununla birlikte, projenin daha ileri düzeyde geliştirilmesi mümkündür. Gel
 Sonuç olarak, bu proje yalnızca bir ödev kapsamında değil, aynı zamanda geri dönüşüm süreçlerini kolaylaştırabilecek ve çevresel farkındalığı artırabilecek gerçek dünyaya uygulanabilir bir sistemin ilk adımı olarak değerlendirilebilir.
 ## KAGGLE NOTEBOOK LİNKİ
 
-[Proje Notebook (Aslıhan Özcan) & (Ahmet Gökay Değer)] [ https://www.kaggle.com/code/aslhanzcan/garbageclassificationproject ]
+[Proje Notebook (Aslıhan Özcan) & (Ahmet Gökay Değer)][ https://www.kaggle.com/code/aslhanzcan/garbageclassificationproject ]
 [ https://www.kaggle.com/kernels/scriptcontent/264025765/download ]
