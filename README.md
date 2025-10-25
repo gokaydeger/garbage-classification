@@ -28,7 +28,7 @@ Yakınlaştırma (zoom),
 
 Kaydırma (shift).
 
-2. Model Mimarisi (Model Architecture):
+2. Model Mimarisi (Model Architecture): 
    
 CNN modeli sırasıyla Conv2D → MaxPooling2D → Dropout → Flatten → Dense katmanlarından oluşturulmuştur.
 
