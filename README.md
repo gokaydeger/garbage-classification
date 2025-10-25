@@ -29,6 +29,7 @@ Yakınlaştırma (zoom),
 Kaydırma (shift).
 
 2. Model Mimarisi (Model Architecture):
+   
 CNN modeli sırasıyla Conv2D → MaxPooling2D → Dropout → Flatten → Dense katmanlarından oluşturulmuştur.
 
 Aktivasyon fonksiyonu olarak ReLU, çıktı katmanında Softmax kullanılmıştır.
@@ -38,6 +39,7 @@ Adam optimizer ve categorical_crossentropy loss fonksiyonu tercih edilmiştir.
 Model 15 epoch boyunca eğitilmiştir.
 
 3. Hiperparametre Denemeleri:
+   
 Dropout oranı: 0.3’ten 0.5’e çıkarılarak overfitting azaltılmaya çalışılmıştır.
 
 Batch size: 16, 32, 64 değerleriyle farklı denemeler yapılmıştır.
@@ -45,6 +47,7 @@ Batch size: 16, 32, 64 değerleriyle farklı denemeler yapılmıştır.
 Test Time Augmentation (TTA): Test sürecinde veri çeşitliliğini artırmak amacıyla uygulanmıştır.
 
 4. Model Değerlendirme:
+
 Eğitim ve doğrulama setleri ayrılarak modelin genelleme başarımı analiz edilmiştir.
 
 Eğitim sürecindeki doğruluk (accuracy) ve kayıp (loss) değerleri grafiklerle takip edilmiştir.
