@@ -80,6 +80,7 @@ Bununla birlikte, projenin daha ileri düzeyde geliştirilmesi mümkündür. Gel
 - Farklı ve daha derin mimariler (örneğin ResNet, EfficientNet) üzerinde denemeler yapılarak performans kıyaslamaları gerçekleştirilebilir.
 - Model, gerçek zamanlı tahmin yapabilecek bir arayüz ile entegre edilerek kullanıcıların kendi verileri üzerinde test yapmaları sağlanabilir.
 - Mobil ve gömülü sistemlere uyarlanabilecek daha hafif modeller (TensorFlow Lite vb.) geliştirilerek uygulamanın günlük hayatta kullanılabilirliği artırılabilir.
+  
 Sonuç olarak, bu proje yalnızca bir ödev kapsamında değil, aynı zamanda geri dönüşüm süreçlerini kolaylaştırabilecek ve çevresel farkındalığı artırabilecek gerçek dünyaya uygulanabilir bir sistemin ilk adımı olarak değerlendirilebilir.
 
 # KAGGLE NOTEBOOK LİNKİ
